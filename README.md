@@ -1,8 +1,10 @@
 # ecommerce
-It is test projecct for ecommerce Order Management.
+It's ecommerce web application and Order Management portal.
 
 Technology Stack:
 NodeJS,
 ExpressJS,
+ReactJS,
+Redux,
 MongoDB,
 Mongoose
